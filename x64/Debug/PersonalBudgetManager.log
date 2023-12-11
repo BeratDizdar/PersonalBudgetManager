@@ -1,0 +1,3 @@
+﻿  PersonalBudgetManager.cpp
+C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\CppProjects\PersonalBudgetManager\PersonalBudgetManager.cpp(155,38): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  PersonalBudgetManager.vcxproj -> C:\Users\berat\OneDrive\Masaüstü\YazılımOlayı\CppProjects\PersonalBudgetManager\x64\Debug\PersonalBudgetManager.exe
